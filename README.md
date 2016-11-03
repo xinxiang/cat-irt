@@ -1,2 +1,2 @@
-# irt
-Evaluation with IRT
+# cat-irt
+Computer Adaptive Test with IRT
